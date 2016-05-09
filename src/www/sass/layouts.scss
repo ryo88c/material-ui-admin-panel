@@ -1,0 +1,9 @@
+.main {
+  padding-left: $side-menu-width;
+  .contents {
+    margin: $base-unit * 4  $base-unit * 6;
+  }
+}
+.sideMenu {
+  width: $side-menu-width;
+}
